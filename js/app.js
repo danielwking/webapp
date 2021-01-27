@@ -1,3 +1,3 @@
 function myFunc() {
-    return username + site
+    return username
 }
